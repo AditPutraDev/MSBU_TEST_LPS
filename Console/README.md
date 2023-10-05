@@ -30,7 +30,7 @@ dart run
 4.Kemudian Enter maka hasil akan muncul hasil output print pada terminal
 <br/>
 <br/>
-<img width="224" alt="Screenshot 2023-10-05 at 13 39 26" src="https://github.com/AditPutraDev/MSBU_TEST_LPS/assets/51684646/6c875331-9878-4f55-8059-08d7edfa1eb0">
+<img width="421" alt="Screenshot 2023-10-05 at 13 39 45" src="https://github.com/AditPutraDev/MSBU_TEST_LPS/assets/51684646/3bc4b240-8c7c-496b-9c7b-be0cc60be0d5">
 <br/>
 <br/>
 
