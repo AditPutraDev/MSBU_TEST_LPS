@@ -14,7 +14,7 @@ cd Console
 2.Jalankan program dengan mengetik perintah "dart run" di terminal dan lihat hasil output print pada terminal
 <br/>
 ```javascript
-dart run
+dart run 
 ```
 <br/>
 <img width="415" alt="Screenshot 2023-10-05 at 13 44 14" src="https://github.com/AditPutraDev/MSBU_TEST_LPS/assets/51684646/969565bb-1fa9-4ee7-8ffb-c40b81cdf908">
